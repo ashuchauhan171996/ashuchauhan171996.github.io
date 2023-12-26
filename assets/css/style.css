@@ -70,7 +70,8 @@ header {
   justify-content: space-between;
   padding: 1.7rem 10%;
   height: 6.5rem;
-  background-color: #fff;
+  /* background-color: #fff; */
+  background-color: #F58216;
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.3);
 }
 section {
@@ -82,6 +83,7 @@ section {
   color: rgb(32, 32, 32);
   font-weight: 800;
   text-align: center;
+  
 }
 .heading span {
   color: rgb(115, 3, 167);
@@ -96,7 +98,8 @@ header .logo i {
   font-size: 2.2rem;
 }
 header .logo:hover {
-  color: #fc8c05;
+  /* color: #fc8c05; */
+  color: #ffffff;
 }
 header .navbar ul {
   list-style: none;
@@ -117,8 +120,10 @@ header .navbar ul li a {
 }
 header .navbar ul li a.active,
 header .navbar ul li a:hover {
-  color: #011aff;
-  border-bottom: 0.2rem solid #011aff;
+  /* color: #011aff; */
+  color: #ffffff;
+  /* border-bottom: 0.2rem solid #011aff; */
+  border-bottom: 0.2rem solid #ffffff;
   padding: 0.5rem 0;
 }
 /* navbar ends */
@@ -186,6 +191,7 @@ header .navbar ul li a:hover {
   gap: 1.5rem;
   min-height: 100vh;
   align-items: center;
+  /* background-color: #36454f; */
 }
 .home #particles-js {
   position: absolute;
@@ -212,10 +218,10 @@ header .navbar ul li a:hover {
   z-index: 1;
 }
 .home .image img {
-  width: 70%;
+  width: 95%;
   margin-left: 6rem;
   border-radius: 50%;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
   cursor: pointer;
 }
 .home .image img:hover {
@@ -361,7 +367,7 @@ header .navbar ul li a:hover {
 }
 .about .row .image img {
   margin: 4rem;
-  width: 30rem;
+  width: 40rem;
   height: auto;
   border-radius: 5%;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.6);
