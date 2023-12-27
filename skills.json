@@ -37,7 +37,7 @@
 
     {
         "name": "Django",
-        "icon": "https://icons8.com/icon/mUBILbYvUMq8/django"
+        "icon": "./assets/images/skills/django.png"
     },
 
     {
@@ -52,7 +52,7 @@
 
     {
         "name": "Spring",
-        "icon": "https://icons8.com/icon/90519/spring-boot"
+        "icon": "./assets/images/skills/spring.png"
     },
 
     {
@@ -61,7 +61,7 @@
     },
     {
         "name": "JIRA",
-        "icon": "https://icons8.com/icon/oROcPah5ues6/jira"
+        "icon": "./assets/images/skills/jira.png"
     },
    
     {
@@ -86,12 +86,12 @@
 
     {
         "name": "Tensorflow",
-        "icon": "https://icons8.com/icon/n3QRpDA7KZ7P/tensorflow"
+        "icon": "./assets/images/skills/tensorflow.png"
     },
 
     {
         "name": "Keras",
-        "icon": "https://icons8.com/icon/XcSgtbIpgK6W/keras"
+        "icon": "./assets/images/skills/keras.png"
     },
    
     {

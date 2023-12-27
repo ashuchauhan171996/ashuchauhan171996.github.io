@@ -218,7 +218,7 @@ header .navbar ul li a:hover {
   z-index: 1;
 }
 .home .image img {
-  width: 90%;
+  width: 80%;
   margin-left: 6rem;
   border-radius: 50%;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
@@ -511,7 +511,7 @@ header .navbar ul li a:hover {
 }
 
 .skills .container .bar .info img {
-  max-height: 20pt;
+  max-height: 40pt;
 }
 .skills .container .bar .info i {
   font-size: 4rem;
