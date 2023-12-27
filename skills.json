@@ -42,7 +42,7 @@
 
     {
         "name": "Flask",
-        "icon": "https://icons8.com/icon/ewGOClUtmFX4/flask"
+        "icon": "./assets/images/skills/flask.png"
     },
     
     {
@@ -96,7 +96,7 @@
    
     {
         "name": "Matlab",
-        "icon": "https://icons8.com/icon/r5Y16PcDkoWI/matlab"
+        "icon": "./assets/images/skills/matlab.png"
     },
    
     {
