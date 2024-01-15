@@ -972,6 +972,82 @@ header .navbar ul li a:hover {
 /* experience media queries ends */
 /* experience section ends */
 
+
+/*--------------------------------------------------------------
+# Testimonials
+--------------------------------------------------------------*/
+
+.testimonials .box-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin: 2rem;
+  
+}
+.testimonials .box-container .box {
+  flex: 1 1 30rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+  position: relative;
+  overflow: hidden; 
+  text-align: center;
+  /* width: 100pt; */
+  /* height: 300pt; */
+  /* /* padding: 20pt; */
+  font-weight: 400;
+  color: #02094b;
+  font-family: "Font Awesome\ 5 Free";
+}
+
+.testimonials .box .testimonial-img {
+  width: 90px;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+.testimonials .box h3 {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 10px 0 5px 0;
+  color: #111;
+}
+
+.testimonials .box h4 {
+  font-size: 14px;
+  color: #999;
+  margin: 0;
+}
+
+
+.testimonials .box p {
+  font-style: italic;
+  margin: 0 15px 15px 15px;
+  padding: 20px;
+  background: #feff9c;
+  /* position: relative; */
+  margin-bottom: 35px;
+  border-radius: 6px;
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  height: 250pt;
+  text-align: center;
+  vertical-align:middle;
+  font-size: 11pt;
+}
+
+.testimonials .box p::after {
+  content: "";
+  width: 0;
+  height: 0;
+  border-top: 20px solid #fff;
+  border-right: 20px solid transparent;
+  border-left: 20px solid transparent;
+  position: absolute;
+  bottom: -20px;
+  left: calc(50% - 20px);
+}
+
+
+
 /* contact section starts */
 .contact {
   background: #e5ecfb;
