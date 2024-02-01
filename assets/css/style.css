@@ -1074,7 +1074,7 @@ header .navbar ul li a:hover {
   position: relative;
   overflow: hidden;
   height: 30rem;
-  max-width: 30%;
+  /* max-width: 30%; */
 }
 .art .box-container .box img {
   height: 100%;
