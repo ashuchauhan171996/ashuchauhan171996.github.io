@@ -76,7 +76,7 @@ header {
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.3);
 }
 section {
-  min-height: 100vh;
+  min-height: 60vh;
   padding: 2rem 9%;
 }
 .heading {
@@ -692,6 +692,7 @@ header .navbar ul li a:hover {
   background: rgba(255, 255, 255, 0.9);
   display: flex;
   flex-direction: column;
+
 }
 .work1 .box-container .box .content .tag {
   display: flex;
@@ -702,9 +703,11 @@ header .navbar ul li a:hover {
   width: 100%;
   padding-left: 1rem;
   background: #ffd900;
+  text-align: center;
 }
 .work1 .box-container .box .content .tag h3 {
   font-size: 2rem;
+  text-align: center;
 }
 .work1 .box-container .box:hover .content {
   top: 25%;
@@ -976,6 +979,36 @@ header .navbar ul li a:hover {
 /* experience section ends */
 
 
+/* Awards Section */
+
+.awards {
+  /* background: #010124; */
+  background: linear-gradient(to bottom, #000031, #00002c);
+  max-height: 100px;
+}
+.awards h2 {
+  color: #fff;
+  padding: 1rem;
+}
+.awards .heading span {
+  color: rgb(255, 230, 0);
+}
+.awards .box-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin: 2rem;
+  /* max-height: 30rem; */
+}
+.awards .box-container ul{
+  font-size: 20px;
+  color: white;
+}
+
+
+
+
+
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
@@ -1048,6 +1081,8 @@ header .navbar ul li a:hover {
   bottom: -20px;
   left: calc(50% - 20px);
 }
+
+
 
 /* art section starts */
 .art {
