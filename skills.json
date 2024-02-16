@@ -97,11 +97,6 @@
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },
   
-  
-    // {
-    //     "name": "Bootstrap",
-    //     "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
-    // },
 
     {
         "name": "Numpy",
@@ -125,20 +120,6 @@
     {
         "name": "Matlab",
         "icon": "./assets/images/skills/matlab.png"
-    },
+    }
    
-    
-    // {
-    //     "name": "Heroku",
-    //     "icon": "https://img.icons8.com/color/48/000000/heroku.png"
-    // },
-    // {
-    //     "name": "Firebase",
-    //     "icon": "https://img.icons8.com/color/48/000000/firebase.png"
-    // },
-
-    // {
-    //     "name": "WordPress",
-    //     "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    // }    
 ]
