@@ -61,11 +61,11 @@
     },
     {
         "name": "Docker",
-        "icon": "https://icons8.com/icon/22813/docker"
+        "icon": "./assets/images/skills/docker.png"
     },
     {
         "name": "Kubernetes",
-        "icon": "https://icons8.com/icon/cvzmaEA4kC0o/kubernetes"
+        "icon": "./assets/images/skills/kubernetes.png"
     },
     {
         "name": "AWS",
