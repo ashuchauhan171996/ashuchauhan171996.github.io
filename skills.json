@@ -68,6 +68,26 @@
         "icon": "https://icons8.com/icon/cvzmaEA4kC0o/kubernetes"
     },
     {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "EC2",
+        "icon": "./assets/images/skills/ec2.png"
+    },
+    {
+        "name": "DynamoDB",
+        "icon": "./assets/images/skills/dynamodb.png"
+    },
+    {
+        "name": "S3",
+        "icon": "./assets/images/skills/s3.png"
+    },
+    {
+        "name": "Lambda",
+        "icon": "./assets/images/skills/lambda.png"
+    },
+    {
         "name": "JIRA",
         "icon": "./assets/images/skills/jira.png"
     },
@@ -78,10 +98,10 @@
     },
   
   
-    {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
-    },
+    // {
+    //     "name": "Bootstrap",
+    //     "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    // },
 
     {
         "name": "Numpy",
@@ -107,21 +127,18 @@
         "icon": "./assets/images/skills/matlab.png"
     },
    
-    {
-        "name": "AWS",
-        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
-    },
-    {
-        "name": "Heroku",
-        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
-    },
-    {
-        "name": "Firebase",
-        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
-    },
+    
+    // {
+    //     "name": "Heroku",
+    //     "icon": "https://img.icons8.com/color/48/000000/heroku.png"
+    // },
+    // {
+    //     "name": "Firebase",
+    //     "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+    // },
 
-    {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    }    
+    // {
+    //     "name": "WordPress",
+    //     "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    // }    
 ]
