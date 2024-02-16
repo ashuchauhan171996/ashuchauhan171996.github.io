@@ -60,6 +60,14 @@
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
+        "name": "Docker",
+        "icon": "https://icons8.com/icon/22813/docker"
+    },
+    {
+        "name": "Kubernetes",
+        "icon": "https://icons8.com/icon/cvzmaEA4kC0o/kubernetes"
+    },
+    {
         "name": "JIRA",
         "icon": "./assets/images/skills/jira.png"
     },
